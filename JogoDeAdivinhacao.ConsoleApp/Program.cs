@@ -21,7 +21,7 @@
 
                 int totalDeTentativas = 0;
 
-                Console.WriteLine("Digite sua escolha :");
+                Console.WriteLine("Digite sua escolha:");
                 String entrada = Console.ReadLine();
 
                 if (entrada == "1")
